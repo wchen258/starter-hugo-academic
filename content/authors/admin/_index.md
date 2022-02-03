@@ -1,39 +1,40 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Weifan Chen 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Boston University
+  url: https://www.bu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include cyber physical system and artificial intelligence.
 
 # Interests to show in About widget
 interests:
+- Cyber Physical System
+- Internet of Things
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- FPGA
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Computer Science
+    institution: Boston University
+    year: 2021-
+  - course: MS in Artificial Intelligence
+    institution: Boston Univeristy
+    year: 2019-2021
+  - course: BSc in Physics
+    institution: Univeristy of Wisconsin Madison
+    year: 2013-2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
