@@ -14,7 +14,7 @@ headless: true
 weight: 30
 
 title: Skills
-subtitle: Software
+subtitle: Machine Learning | Embedded System
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
@@ -34,6 +34,12 @@ feature:
   #icon: camera-retro
   #icon_pack: fas
   name: Java
+- description: 70%
+  name: Bash
+- description: 40%
+  name: Verilog
+- description: 30%
+  name: aarch64
 
 
 
