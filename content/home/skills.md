@@ -5,7 +5,7 @@ widget: featurette
 
 
 
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
@@ -14,24 +14,35 @@ headless: true
 weight: 30
 
 title: Skills
-subtitle:
+subtitle: Software
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
 - description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+  #icon: r-project
+  #icon_pack: fab
+  name: Python
+- description: 80%
+  #icon: chart-line
+  #icon_pack: fas
+  name: C/C++
+- description: 70%
+  name: OCaml
+- description: 60%
+  #icon: camera-retro
+  #icon_pack: fas
+  name: Java
+
+subtitle: Hardware/System
+- description: 60%
+  name: Bash
+- description: 40%
+  name: Verilog
+- description: 20%
+  name: aarch64
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
