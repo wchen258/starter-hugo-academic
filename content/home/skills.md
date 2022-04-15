@@ -35,13 +35,6 @@ feature:
   #icon_pack: fas
   name: Java
 
-subtitle: Hardware/System
-- description: 60%
-  name: Bash
-- description: 40%
-  name: Verilog
-- description: 20%
-  name: aarch64
 
 
 # Uncomment to use emoji icons.
