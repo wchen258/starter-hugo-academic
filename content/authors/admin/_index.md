@@ -12,7 +12,7 @@ role: Ph.D in Computer Science
 organizations:
 - name: Boston University
   url: https://www.bu.edu/
-- name: Cyber Physical Lab at BU
+- name: Cyber Physical System Lab at BU
   url: http://cpslab.bu.edu
 
 # Short bio (displayed in user profile at end of posts)
