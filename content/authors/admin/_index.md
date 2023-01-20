@@ -12,6 +12,8 @@ role: Ph.D in Computer Science
 organizations:
 - name: Boston University
   url: https://www.bu.edu/
+- name: Cyber Physical Lab at BU
+  url: http://cpslab.bu.edu
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include cyber physical system and artificial intelligence.
