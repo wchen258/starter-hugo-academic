@@ -73,4 +73,4 @@ highlight_name: true
 
 I am a Ph.D student at Boston University Computer Science Department Cyber Physical Lab, focusing on heterogeneis heterogeneous System-on-Chip development, and tackling on multi-core real-time scheduling problems. My daily research equips me with confidence to interact with both software and hardware (even design my own hardware!). I also take interests in artificial intelligence, which enables me to implement machine learning algorithm to solve practical problems. I affiliate with Bio-imaging Informatic Lab at Boston Univeristy Medical School, where my machine learning code could really put into use. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
