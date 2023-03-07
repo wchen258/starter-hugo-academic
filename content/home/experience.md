@@ -31,7 +31,7 @@ experience:
     date_end: ''
     description: |2-
         Multiple Processor System-on-Chip (MPSoC) has become ubiquitous. Albeit powerful, the complex interaction between various components pose a threat to tasks that require strict timeliness behaviors (a.k.a hard real-time tasks). The timeliness has to be met to prevent distrastrous consequences. For example, the deployment of the safety air bag on cars has to be just in time. Too late or too early would invalid such systems. In fact, hard real-time tasks exist for many industries, automotive, avionic, home appliances, medical, telecommunication, aerospace and military applications. Our vision is to develop a system capable of being self-aware of the time progress of running applications, so that regulation strategies can be effective applied dynamically, to truly unleash the power of modern computing platforms. 
-    Keywords: Real-Time Operating System (RTOS); MPSoC; Internet of Things (IoT)
+        * Keywords: Real-Time Operating System (RTOS); MPSoC; Internet of Things (IoT)
         
   - title: Research Assistant & Peer Mentor
     company: Boston University Bio-Imaging & Information Lab
@@ -40,8 +40,9 @@ experience:
     location: Massachusetts
     date_start: '2020-01-01'
     date_end: '2022-09-01'
-    description: Magnetic Resonance Imaging (MRI) generates a huge volume of data reflecting brain structure. I worked closely with the research group, and developed various machine learning frameworks to analyze the data. I also mentored other undergraduates who take an interest in both machine learning and brain imaging. 
-    keywords: Machine Learning; Deep Learning; Computer Vision; Data Science; Optimization; MRI; Brain Imaging
+    description: |2-
+        Magnetic Resonance Imaging (MRI) generates a huge volume of data reflecting brain structure. I worked closely with the research group, and developed various machine learning frameworks to analyze the data. I also mentored other undergraduates who take an interest in both machine learning and brain imaging. 
+        * keywords: Machine Learning; Deep Learning; Computer Vision; Data Science; Optimization; MRI; Brain Imaging
 
 design:
   columns: '2'
