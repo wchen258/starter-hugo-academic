@@ -38,7 +38,7 @@ doi: "10.3390/brainsci10110884"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Neuroimaging Markers for Studying Gulf-War Illness; Single-Subject Level Analytical Method Based on Machine Learning 
+publication:  
 #publication_short: In *ICW*
 
 abstract: Gulf War illness (GWI) refers to the multitude of chronic health symptoms, spanning from fatigue, musculoskeletal pain, and neurological complaints to respiratory, gastrointestinal, and dermatologic symptoms experienced by about 250,000 GW veterans who served in the 1991 Gulf War (GW). Longitudinal studies showed that the severity of these symptoms often remain unchanged even years after the GW, and these veterans with GWI continue to have poorer general health and increased chronic medical conditions than their non-deployed counterparts. For better management and treatment of this condition, there is an urgent need for developing objective biomarkers that can help with simple and accurate diagnosis of GWI. In this study, we applied multiple neuroimaging techniques, including T1-weighted magnetic resonance imaging (T1W-MRI), diffusion tensor imaging (DTI), and novel neurite density imaging (NDI) to perform both a group-level statistical comparison and a single-subject level machine learning (ML) analysis to identify diagnostic imaging features of GWI. Our results supported NDI as the most sensitive in defining GWI characteristics. In particular, our classifier trained with white matter NDI features achieved an accuracy of 90% and F-score of 0.941 for classifying GWI cases from controls after the cross-validation. These results are consistent with our previous study which suggests that NDI measures are sensitive to the microstructural and macrostructural changes in the brain of veterans with GWI, which can be valuable for designing better diagnosis method and treatment efficacy studies.}
@@ -68,7 +68,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Gulf War illness (GWI) cases vs. Gulf War (GW) control group comparisons of gray matter (GM) and white matter (WM) neurite density imaging (NDI) measures and summary of significant regions.'
   focal_point: ""
   preview_only: false
 
@@ -88,12 +88,5 @@ projects:
 slides: ""
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
