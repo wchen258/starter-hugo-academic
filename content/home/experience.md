@@ -25,7 +25,7 @@ experience:
   - title: Research Fellow
     company: Boston University Cyber Physical Lab
     company_url: 'http://cpslab.bu.edu'
-    company_logo: org-gc
+    company_logo: cps
     location: Massachusetts
     date_start: '2020-09-02'
     date_end: ''
@@ -36,7 +36,7 @@ experience:
   - title: Research Assistant & Peer Mentor
     company: Boston University Bio-Imaging & Information Lab
     company_url: 'https://sites.bu.edu/bil/'
-    company_logo: org-x
+    company_logo: bil
     location: Massachusetts
     date_start: '2020-01-01'
     date_end: '2022-09-01'
