@@ -38,7 +38,7 @@ experience:
     company_url: 'https://sites.bu.edu/bil/'
     company_logo: org-x
     location: Massachusetts
-    date_start: '2020-01-010'
+    date_start: '2020-01-01'
     date_end: '2022-09-01'
     description: Magnetic Resonance Imaging (MRI) generates a huge volume of data reflecting brain structure. I worked closely with the research group, and developed various machine learning frameworks to analyze the data. I also mentored other undergraduates who take an interest in both machine learning and brain imaging. 
     keywords: Machine Learning; Deep Learning; Computer Vision; Data Science; Optimization; MRI; Brain Imaging
