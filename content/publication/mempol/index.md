@@ -47,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://n.neurology.org/content/98/15/e1534'
 url_code: ''
 url_dataset: ''
 url_poster: ''
