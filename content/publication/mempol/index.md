@@ -18,7 +18,7 @@ authors:
 #- "Equal contribution"
 
 date: "2023-05-30T00:00:00Z"
-# doi: "https://doi.org/10.1212/WNL.0000000000200120"
+doi: "https://doi.org/10.1212/WNL.0000000000200120"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
@@ -33,7 +33,7 @@ publication_types: ["1"]
 #publication: In *Wowchemy Conference*
 #publication_short: In *ICW*
 
-abstract: Abstract—In today’s multiprocessor systems on a chip (MPSoC), the shared memory subsystem is a known source of temporal interference. The problem causes logically independent cores to affect each others’ performance, leading to pessimistic worst-case execution time (WCET) analysis. One of the most practical techniques to mitigate interference is memory regulation via throttling. Traditional regulation schemes rely on a combination of timer and performance counter interrupts to be delivered and processed on the same cores running real-time workload. Unfortunately, to prevent excessive overhead, regulation can only be enforced at a millisecond-scale granularity. In this work, we present a novel regulation mechanism from outside the cores that monitors performance counters for the application core’s activity in main memory at a microsecond scale. The approach is fully transparent to the applications on the cores, and can be implemented using widely available on-chip debug facilities. The presented mechanism also allows more complex composition of metrics to enact load-aware regulation. For instance, it allows redistributing unused bandwidth between cores while keeping the overall memory bandwidth of all cores below a given threshold. We implement our approach on a host of embedded platforms and carry out an in-depth evaluation on the Xilinx Zynq UltraScale+ ZCU102 platform using the SD-VBS.
+abstract: In today’s multiprocessor systems on a chip (MPSoC), the shared memory subsystem is a known source of temporal interference. The problem causes logically independent cores to affect each others’ performance, leading to pessimistic worst-case execution time (WCET) analysis. One of the most practical techniques to mitigate interference is memory regulation via throttling. Traditional regulation schemes rely on a combination of timer and performance counter interrupts to be delivered and processed on the same cores running real-time workload. Unfortunately, to prevent excessive overhead, regulation can only be enforced at a millisecond-scale granularity. In this work, we present a novel regulation mechanism from outside the cores that monitors performance counters for the application core’s activity in main memory at a microsecond scale. The approach is fully transparent to the applications on the cores, and can be implemented using widely available on-chip debug facilities. The presented mechanism also allows more complex composition of metrics to enact load-aware regulation. For instance, it allows redistributing unused bandwidth between cores while keeping the overall memory bandwidth of all cores below a given threshold. We implement our approach on a host of embedded platforms and carry out an in-depth evaluation on the Xilinx Zynq UltraScale+ ZCU102 platform using the SD-VBS.
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
