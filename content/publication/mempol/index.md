@@ -1,16 +1,14 @@
 ---
-title: "Low-overhead Online Assessment of Timely Progress as a System Commodity"
+title: "MemPol: Policing Core Memory Bandwidth from Outside of the Cores"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Alexander Zuepke
+- Andrea Bastoni
 - admin
-- Ivan Izhibirdeev
-- Denis Hoornaert
-- Shahin Roozkhosh
-- Patrick Carpanedo
-- Sanskriti Sharma
+- Marco Caccamo
 - Renato Mancuso
   
 # Author notes (optional)
@@ -18,7 +16,7 @@ authors:
 #- "Equal contribution"
 
 date: "2023-03-30T00:00:00Z"
-doi: "https://doi.org/10.1212/WNL.0000000000200120"
+#doi: "https://doi.org/10.1212/WNL.0000000000200120"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
@@ -47,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://n.neurology.org/content/98/15/e1534'
+#url_pdf: 'https://n.neurology.org/content/98/15/e1534'
 url_code: ''
 url_dataset: ''
 url_poster: ''
