@@ -42,20 +42,20 @@ techniques to mitigate interference is memory regulation via
 throttling. Traditional regulation schemes rely on a combination
 of timer and performance counter interrupts to be delivered
 and processed on the same cores running real-time workload.
- Unfortunately, to prevent excessive overhead, regulation can only
- be enforced at a millisecond-scale granularity.
- In this work, we present a novel regulation mechanism from
- outside the cores that monitors performance counters for the
- application core’s activity in main memory at a microsecond
- scale. The approach is fully transparent to the applications on
- the cores, and can be implemented using widely available on-
- chip debug facilities. The presented mechanism also allows more
- complex composition of metrics to enact load-aware regulation.
- For instance, it allows redistributing unused bandwidth between
- cores while keeping the overall memory bandwidth of all cores
- below a given threshold. We implement our approach on a host of
- embedded platforms and carry out an in-depth evaluation on the
- Xilinx Zynq UltraScale+ ZCU102 platform using the SD-VBS.
+Unfortunately, to prevent excessive overhead, regulation can only
+be enforced at a millisecond-scale granularity.
+In this work, we present a novel regulation mechanism from
+outside the cores that monitors performance counters for the
+application core’s activity in main memory at a microsecond
+scale. The approach is fully transparent to the applications on
+the cores, and can be implemented using widely available on-
+chip debug facilities. The presented mechanism also allows more
+complex composition of metrics to enact load-aware regulation.
+For instance, it allows redistributing unused bandwidth between
+cores while keeping the overall memory bandwidth of all cores
+below a given threshold. We implement our approach on a host of
+embedded platforms and carry out an in-depth evaluation on the
+Xilinx Zynq UltraScale+ ZCU102 platform using the SD-VBS.
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
@@ -69,7 +69,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-#url_pdf: 'https://n.neurology.org/content/98/15/e1534'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
