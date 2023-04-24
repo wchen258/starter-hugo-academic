@@ -1,5 +1,5 @@
 ---
-title: "Low-overhead Online Assessment of Timely Progress as a System Commodityt"
+title: "Low-overhead Online Assessment of Timely Progress as a System Commodity"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -17,7 +17,7 @@ authors:
 #author_notes:
 #- "Equal contribution"
 
-date: "2023-05-30T00:00:00Z"
+date: "2023-03-30T00:00:00Z"
 doi: "https://doi.org/10.1212/WNL.0000000000200120"
 
 # Schedule page publish date (NOT publication's date).
