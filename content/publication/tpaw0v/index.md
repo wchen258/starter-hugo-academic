@@ -1,12 +1,12 @@
 ---
-title: "Low-overhead Online Assessment of Timely Progress as a System Commodity"
+title: "Low-overhead Online Assessment of Timely Progress as a System Commodity (Best Presentation Award and Outstanding Paper Award)"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Ivan Izhibirdeev
+- Ivan Izhbirdeev
 - Denis Hoornaert
 - Shahin Roozkhosh
 - Patrick Carpanedo
@@ -18,7 +18,7 @@ authors:
 #- "Equal contribution"
 
 date: "2023-04-02T00:00:00Z"
-#doi: "https://doi.org/10.1212/WNL.0000000000200120"
+doi: "https://doi.org/10.4230/LIPIcs.ECRTS.2023.13"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
