@@ -35,7 +35,7 @@ doi: "https://doi.org/10.1212/WNL.0000000000200120"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-#publication: In *Wowchemy Conference*
+publication: In Association of Diabetes and Hypertension With Brain Structural Integrity and Cognition in the Boston Puerto Rican Health Study Cohort Neurology Mar 2022, 10.1212
 #publication_short: In *ICW*
 
 abstract: The Boston Puerto Rican Health Study (BPRHS) is a longitudinal study following self-identified Puerto Rican older adults living in the Greater Boston area. Studies have shown higher prevalence of hypertension (HTN) and type 2 diabetes (T2D) within this ethnic group compared to age-matched non-Hispanic White adults. In this study, we investigated the associations of HTN and T2D comorbidity on brain structural integrity and cognitive capacity in community-dwelling Puerto Rican adults and compared these measures with older adult participants (non-Hispanic White and Hispanic) from the Alzheimer's Disease Neuroimaging Initiative (ADNI) and National Alzheimer's Coordinating Center (NACC) databases.
