@@ -28,7 +28,7 @@ publication_types: ["1"]
 
 #Publication name and optional abbreviated publication name.
 publication: In Real-time And intelliGent Edge computing workshop (RAGE), June 2023, San Francisco, CA, USA.
-publication_short: In RAGE2023
+#publication_short: In RAGE2023
 
 abstract: In this paper, we investigate the problem of contention and loss of predictability in modern microcontrollers (MCU). To address this issue, we first present a framework to empirically analyze and ob- serve the impact of interference on low-end MCUs. With carefully crafted evaluation scenarios, we conduct experiments on an Arm’s Musca-A1 platform and provide sufficient evidence that even with common application setups, interference can slowdown applica- tions by several orders of magnitude. Furthermore, we propose an architecture for a novel mitigation system that enables applications to monitor their timing progress slackness and mitigate temporal interference over shared resources. This is achieved by suspend- ing less critical cores and reconfiguring their priority on the bus when intolerable contention delays are present. Our findings em- phasize the critical importance of considering the impact of shared resources, such as interconnects and memory access patterns, on low-end multi-core MCUs. It is, therefore, crucial to design mecha- nisms that can allow MCU-based applications to regain control of their timeliness
 
