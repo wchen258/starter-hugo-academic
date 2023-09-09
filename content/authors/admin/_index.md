@@ -73,6 +73,16 @@ email: "wfchen@bu.edu"
 highlight_name: true
 ---
 
-I am a Ph.D student at Boston University Computer Science Department Cyber Physical Lab, focusing on heterogeneis heterogeneous System-on-Chip development, and tackling on multi-core real-time scheduling problems. My daily research equips me with confidence to interact with both software and hardware (even design my own hardware!). I also take interests in artificial intelligence, which enables me to implement machine learning algorithm to solve practical problems. I affiliate with Bio-imaging Informatic Lab at Boston Univeristy Medical School, where my machine learning code could really put into use. 
+<!-- I am a Ph.D student at Boston University Computer Science Department Cyber Physical Lab, focusing on heterogeneis heterogeneous System-on-Chip development, and tackling on multi-core real-time scheduling problems. My daily research equips me with confidence to interact with both software and hardware (even design my own hardware!). I also take interests in artificial intelligence, which enables me to implement machine learning algorithm to solve practical problems. I affiliate with Bio-imaging Informatic Lab at Boston Univeristy Medical School, where my machine learning code could really put into use.  -->
+
+The following excerpt from Becoming Steve Jobs by Brent Schlender and Rick Tetzeli partially reflects my life philosophy:
+
+Gates knew that his aesthetic taste couldn't compare with Steve's. "He wanted his products to be the best," Gates said, "He always observed things with a designer's perspective. When I walk into a hotel, I would never think, 'This nightstand is too ugly; it should be designed like this.' When I look at a car, I don't think, 'If I were the designer, I would do it this way or that way.' But people like Jony Ive and Steve always view everything with a designer's eye. Only when I look at code do I think, 'This is designed pretty well.' So, the way I see the world is completely different from Steve. He had an innate sense of aesthetics, capable of immediately judging whether an object met the standard and how it was designed." The senior executive team of Steve thought rightly: Microsoft and Apple had entirely different standards for what is considered acceptable design, not to mention outstanding design.
+
+The following excerpt from The Working Methods by Inamori Kazuo （干法-稻盛和夫） partially reflects my work philosophy:
+
+The purpose of work is to elevate one's spirit and will — that's my view. Elevating one's spirit is an extremely challenging task. Some monks, despite undergoing long periods of rigorous training, might not achieve it. Yet, hidden within work is the immense power to achieve this goal. This is the true significance of work. Working diligently day after day can have a remarkable effect on honing our spirit and elevating our humanity."
+
+As a sidenote, Inamori's claim partially coincides with the concept of Flow in positive psychology by Mihaly Csikszentmihalyi.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
