@@ -81,7 +81,7 @@ Gates knew that his aesthetic taste couldn't compare with Steve's. "He wanted hi
 
 **The following excerpt from The Working Methods by Inamori Kazuo （干法-稻盛和夫） partially reflects my work philosophy:**
 
-The purpose of work is to elevate one's spirit and will — that's my view. Elevating one's spirit is an extremely challenging task. Some monks, despite undergoing long periods of rigorous training, might not achieve it. Yet, hidden within work is the immense power to achieve this goal. This is the true significance of work. Working diligently day after day can have a remarkable effect on honing our spirit and elevating our humanity."
+The purpose of work is to elevate one's spirit and will — that's my view. Elevating one's spirit is an extremely challenging task. Some monks, despite undergoing long periods of rigorous training, might not achieve it. Yet, hidden within work is the immense power to achieve this goal. This is the true significance of work. Working diligently day after day can have a remarkable effect on honing our spirit and elevating our humanity.
 
 As a sidenote, Inamori's claim partially coincides with the concept of **Flow** in positive psychology by Mihaly Csikszentmihalyi.
 
