@@ -15,7 +15,7 @@ authors:
 #author_notes:
 #- "Equal contribution"
 
-date: "2024-07-01T00:00:00Z"
+date: "2024-05-09T00:00:00Z"
 #doi: "https://doi.org/10.1212/WNL.0000000000200120"
 
 # Schedule page publish date (NOT publication's date).
