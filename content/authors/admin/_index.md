@@ -32,10 +32,10 @@ education:
     institution: Boston University
     year: 2021-
   - course: MS in Artificial Intelligence
-    institution: Boston Univeristy
+    institution: Boston University
     year: 2019-2021
   - course: BSc in Physics
-    institution: Univeristy of Wisconsin Madison
+    institution: University of Wisconsin Madison
     year: 2013-2017
 
 # Social/Academic Networking
